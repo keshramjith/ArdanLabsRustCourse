@@ -1,0 +1,5 @@
+# Ignore Rust build files in subfolders
+**/target/
+**/Cargo.lock
+**/Cargo.toml.orig
+.idea
